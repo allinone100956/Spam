@@ -1,0 +1,3 @@
+# Spam
+
+Discord bot project.
